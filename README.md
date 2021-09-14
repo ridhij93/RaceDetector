@@ -1,4 +1,5 @@
 # RaceDetector
+<<<<<<< HEAD
 
 This tool is built and Tested on :
 Ubuntu 14.04
@@ -34,3 +35,5 @@ Run ./schedule_random.sh
 
 
 [Reset path to endrun in schedule_random.sh]
+=======
+>>>>>>> first commit
